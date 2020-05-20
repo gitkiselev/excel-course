@@ -27,6 +27,7 @@ export function updateDate() {
     type: UPDATE_DATE
   }
 }
+
 export function changeStyles(data) {
   return {
     type: CHANGE_STYLES,
